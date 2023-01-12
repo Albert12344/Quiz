@@ -14,14 +14,14 @@ export const quizData = [
     {
         id: 2,
         question: 'Who is the Prime Minister of Armenia??',
-        options: ['Suren Papikyan', ' Nikol Pashinyan ', 'Davit Danielyan', 'Gagik Tsarukyan'],
-        answer: 'Nikol Pashinyan'
+        options: ['Papikyan', 'Pashinyan', 'Danielyan', 'Tsarukyan'],
+        answer: 'Pashinyan'
     },
     {
         id: 3,
         question: 'Who is the Prime Minister of Armenia??',
-        options: ['Suren Papikyan', ' Nikol Pashinyan ', 'Davit Danielyan', 'Gagik Tsarukyan'],
-        answer: 'Nikol Pashinyan'
+        options: ['Papikyan', 'Pashinyan', 'Danielyan', 'Tsarukyan'],
+        answer: 'Pashinyan'
     },
     {
         id: 4,
